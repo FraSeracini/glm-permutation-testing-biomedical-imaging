@@ -28,5 +28,4 @@ Navigate to the `MATLAB` directory and run the main scripts in order to replicat
 
 University College London  
 COMP0118 – Coursework 2  
-Deadline: March 13, 2025
 
