@@ -26,6 +26,9 @@ Navigate to the `MATLAB` directory and run the main scripts in order to replicat
 
 ---
 
-University College London  
-COMP0118 – Coursework 2  
+## Author
+
+Francesco Seracini  
+MSc Computer Science - Artificial Intelligence  
+Politecnico di Milano - University College London  
 
